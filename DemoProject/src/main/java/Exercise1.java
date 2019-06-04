@@ -33,7 +33,11 @@ public class Exercise1 {
         driver.switchTo().defaultContent();
         driver.close();
    
+<<<<<<< HEAD
+  // Hello Apoorv Bansal has made the changes      
+=======
         //Gagandeep Added a comment
+>>>>>>> 1418b83ea5ff4196231a6e609c226d8132627ce0
         
         
     }
